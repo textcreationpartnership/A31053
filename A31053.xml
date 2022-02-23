@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The relief of the poore, and advancement of learning proposed by Humphry Barrow ...</title>
+            <author>Barrow, Humphrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31053</idno>
+            <idno type="STC">Wing B923</idno>
+            <idno type="STC">ESTC R1413</idno>
+            <idno type="EEBO-CITATION">12305975</idno>
+            <idno type="OCLC">ocm 12305975</idno>
+            <idno type="VID">59252</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59252)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 199:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The relief of the poore, and advancement of learning proposed by Humphry Barrow ...</title>
+                  <author>Barrow, Humphrey.</author>
+               </titleStmt>
+               <extent>[3], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by VVilliam Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor --  Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59252:1"/>
+            <!-- PDF PAGE 72 -->
+            <pb facs="tcp:59252:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 72 -->
+            <p>THE RELIEF OF THE POORE, and ADVANCEMENT OF LEARNING: Propoſed.</p>
+            <p>By HUMPHRY BARROW, (dureing the War) a Member of the Armie.</p>
+            <q xml:lang="lat">Qui citò dat, bis dat.</q>
+            <p>
+               <hi>DVBLIN,</hi> Printed by WILLIAM BLADEN, <hi>Anno Dom.</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:59252:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <pb facs="tcp:59252:2"/>
+            <!-- PDF PAGE 73 -->
+            <head>TO HIS EXCELLENCY The Lord <hi>HENRY CROMWEL,</hi> Commander in chief of the Forces of <hi>IRELAND.</hi>
+            </head>
+            <head type="sub">And the reſt of the honorable Com<g ref="char:EOLhyphen"/>manders, and inferior Officers, now, and late of the Army.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT Glorious Succeſs with which God hath crown'd your honorable Actions, in the reſcue of this pretious Land out of thoſe hands that without cauſe were imbrued in the bloud of our Country; is yet ſo freſh and warm in e<g ref="char:EOLhyphen"/>very ingenous heart, that (I hope) a Propoſal,
+<pb n="2" facs="tcp:59252:3"/>
+               <!-- PDF PAGE 74 -->tending to a ſacrificious gratitude to the Lord of Hoaſts, (by whoſe mercie and mighty arm, we are what we are) will not be unſeaſonably preſented to any perſon concerned in this Addreſs. Wherein I have humbly aſſumed the confidence to mind You of the pious Cuſtoms of the Souldiers and Servants of GOD in former Ages; nay of the laudable (though blind) Devotions of Pagans and Infidels, as Sacred, and other Hiſtorie do (amply) manifeſt: who no ſooner could ſound <hi>Victoria</hi> after a War, but up go the Altars, and on go the Sacrifices, in retribution of thanks to that Deity each held in veneration.</p>
+            <p>'T is true, we have (in the progreſs of this War) afforded GOD ſome Days of Thanks-giving; and he (at laſt) having given us the iſſue of our hopes; the Bleſſing and Harveſt of our Bloud and Sweat: thoſe would all look like days of helliſh Hypocriſie, if we ſhould not now preſent him with ſome Deeds of Thanks-giving; and Sacrifices being ceaſed, we have an Opportunitie to exerciſe what he loves bet<g ref="char:EOLhyphen"/>ter, which is, Mercie.</p>
+            <p>Not then to hold You any longer in the Portch of Expectation, I here preſent You in one hand, the Aged, the Infirm, the Orphan, to be provided for by way of Hoſpital: and in the other hand, that yet-in-its-Morning (but hopeful) light of this Land, the Univerſity of DUBLIN, for Addition of Re<g ref="char:EOLhyphen"/>venue. To carry on both which, I wiſh GOD would perſuade each heart herein concerned, to allow one Acre of Land out of each hundred due to him; which granted, there is little doubt but the
+<pb n="3" facs="tcp:59252:3"/>
+               <!-- PDF PAGE 74 -->Adventurers, to whom GOD hath given ſo fair <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Return of their pious Loans; and Purchaſers of Debentures, who have leaſt reaſon to oppoſe, will do the like: And the ſame deducted from each mans Proportion, to be caſt into a ſingle, or what ſeverall Parcels, the wiſdom of the Government ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll judg convenient.</p>
+            <p>Perhaps ſome may object, That this Motion comes too late, much of the Land being already diſpoſed of, (and I grant, had it been thought of ſooner, it had been effected with leſs trouble, but) <hi>Volenti nil difficile,</hi> we ſhould not in the leaſt pa<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e at the difficulty, were it to ſerve our own p<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rticulars<g ref="char:punc">▪</g> and indeed, conſidered in the beſt ſenſe, it is ſo, if we expect a bleſſing upon the reſt of our Eſtates; or if there be any wiſdom in laying up treaſure in Hea<g ref="char:EOLhyphen"/>ven: for this ſhall be ſurer to your houſes, than the brains of all the Lawyers that ever trod WEST<g ref="char:EOLhyphen"/>MINSTER-Hall met in one ſcull, can make the reſt.</p>
+            <p>For who knows how ſoon, prodigal Heirs (ordi<g ref="char:EOLhyphen"/>narily the Iſſue of penurious Fathers) ſhall make ha<g ref="char:EOLhyphen"/>vock of thoſe Eſtates, the hundredth part whereof, might, though not merit, have brought a bleſſing up<g ref="char:EOLhyphen"/>on you to all eternitie. A fair warning for the ob<g ref="char:EOLhyphen"/>ſervance of that precious inch of Scripture, <hi>Whileſt you have time do good;</hi> leaſt whileſt you are rotting, your Heirs, be reveling; and they damned for ſpen<g ref="char:EOLhyphen"/>ding upon their luſts, what you were damned for de<g ref="char:EOLhyphen"/>nying the Lazar.</p>
+            <p>And if there be any (though I hope better things) that ſhall ſtrain at this Gnat, I wonder how they
+<pb n="4" facs="tcp:59252:4"/>
+               <!-- PDF PAGE 75 -->would have be haved themſelves towards that Ca<g ref="char:EOLhyphen"/>mel, laid before the Yong man in the Goſpel, <hi>Ali that thou haſt.</hi> Remember the widows mite, and the ſuperlative teſtimonie our Saviour gave of it. Poor woman! it was all ſhe had, and this a fleece out of a flock.</p>
+            <p>And I dare affirm <hi>Ananias</hi> and <hi>Sapphira</hi> (laying a<g ref="char:EOLhyphen"/>ſide their lie) were Saints, compared to ſuch as ſhall ſay to this Propoſal, <hi>I'll conſider of it.</hi>
+            </p>
+            <p>If we can pay the fourth part of our Rents to theſe Commonwealths, we may bluſh before the Angels to denie the hundredth part to the Com<g ref="char:EOLhyphen"/>monwealth of CHRIST: For this is not to de<g ref="char:EOLhyphen"/>nude your walls of their hangings, to cover the fleſh of the poor; nor your Coaches of their leather, to make them ſhooes; your ſuperneceſſarie pam<g ref="char:EOLhyphen"/>pered Steeds of their Horſe-cloaths, to make them Shirts; nor your Mangers of their Provender, to fill their Ovens; though all theſe might well be a<g ref="char:EOLhyphen"/>bated to relieve the meaneſt Member of CHRIST. GOD hath given to many amongſt us vaſt Eſtates, large poſſeſſions; he hath given us the Land and labors of our Enemies, beings that we neither built nor planted; nay he hath given us our lives for a prey, when thouſands as valiant, as pretious, as wor<g ref="char:EOLhyphen"/>thy, as we, lie now rotting in contemptible ditches. And ſhall we not help our Brethren to live with us? That Saying is as good as old. <hi>Non nobis ſol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m nati ſumus,</hi> we are not born onely for our ſelves; and I hope we did not altogether fight for our ſelves; but ſhall be tryed by this trifle, though what is here ur<g ref="char:EOLhyphen"/>ged as an act of Charitie, and as yet carries no other
+<pb n="5" facs="tcp:59252:4"/>
+               <!-- PDF PAGE 75 -->face, may to after ages be rendered an act of Politie; and that thus Suſtenance and Science being the ſub<g ref="char:EOLhyphen"/>ject matters here preaſt, who knows but that caſting his bounty and bread upon the waters now, he may after many days find them in the bellies and brains of his needy poſteritie.</p>
+            <p>Perhaps there may be ſome who ſet a low rate upon that Beauty and Glorie of Humanitie, Lear<g ref="char:EOLhyphen"/>ning, which ſanctified, reſtores us neareſt to the I<g ref="char:EOLhyphen"/>mage of GOD: but if there be, (as I hope few) they muſt give me leave to believe they are ſuch as would have the eys both of Church and Commonwealth put out, that they might have the leading of them.</p>
+            <p>It was highly in queſtion which was the ſaddeſt Perſecution, that under <hi>Diocleſian,</hi> or that under <hi>Ju<g ref="char:EOLhyphen"/>lian</hi> the Apoſtate; the firſt laboring the deſtruction of all the bodies of the Saints, and the laſt of all books, that no memory of GOD or Religon might remain: but the laſt was concluded infinitely tran<g ref="char:EOLhyphen"/>ſcendent, as a device that would have thrown the world into a deeper than Egyptian darkneſs.</p>
+            <p>'Tis true, there are many who (I have charitie to believe) mean well, and much mind the enlarge<g ref="char:EOLhyphen"/>ment of the bounds of the Church, and opening a way for the light of the Goſpel in its puritie to ſhine upon the freckled face of the erroneous World: But alas! that's hard to be done by a language that hath no acquaintance abroad; nor could ever travel far<g ref="char:EOLhyphen"/>ther than the verges of our own ſhores, ſave amongſt our own Colonies; and not communicable to other Nations by any univerſal Rule. I muſt needs grant that CHRIST in the election of his Apoſtles, made
+<pb n="6" facs="tcp:59252:5"/>
+               <!-- PDF PAGE 76 -->choice of poor ignorant laboring men; but I hope none will denie, that though he found them ſuch, yet after the ſealing of their great Commiſſion to preach the Goſpel by the Holy Ghoſt, in cloven tongues, they went away the moſt ſublimated Scho<g ref="char:EOLhyphen"/>lars that ever were or ſhall be upon the world. That Great Schole-Maſter in a moment diſpelling the miſt of deſpicable ignorance, and filling them with all Languages and requiſite Knowledg. And 't is obſervable, that when GOD had a purpoſe to ſtay the building of <hi>Babel,</hi> and ſcatter mankind into fra<g ref="char:EOLhyphen"/>ctions; he confounds their ſpeech, and divides tongues to the Nations: but when he reſolves to build up his Church, he recollects them <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into the Mouths of his Apoſtles. With ſome meaſure of which Qualification (immediate gift of tongu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s be<g ref="char:EOLhyphen"/>ing ceaſed) the moſt eminent Servants of CHRIST, and faithful promoters of the purity of his truth, have from time to time, indefatigably l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by Nurſeries of Learning to endow the Miniſtry.</p>
+            <p>'Tis true, Exhortations, Reproofs, Conſolations and Directions in plain and patent matters, are high<g ref="char:EOLhyphen"/>ly commendable in thoſe of meaneſt parts; for th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y that feared the Lord ſpake often one to another: but Preaching, Expoſition, and the unfolding of hidden Myſteries, do modeſtly call for ſanctified Learning and Authority. The mannagement of which Aſſer<g ref="char:EOLhyphen"/>tion, I humbly leave to thoſe Champions of the Truth, whoſe Shields I am not worthy to bear.</p>
+            <p>And now craving pardon to my prolivity, glance once again upon the poor; and wiſh the moſt obdu<g ref="char:EOLhyphen"/>rate wretch to lay his hand upon his heart, and con<g ref="char:EOLhyphen"/>ſider,
+<pb n="7" facs="tcp:59252:5"/>
+               <!-- PDF PAGE 76 -->how his ears will one day tingle to hear that Soul-cruſhing charge of unkindneſs from the mouth of the Son of GOD, <hi>I was hungry, and ye fed me not.</hi>
+            </p>
+            <p>Adding onely this, If there be any heart ſo much adamant, brow ſo much braſs, or mind ſo void of Mercie as to ſet himſelf in poſitive Oppoſition to what is here ſuggeſted; or that his evil Example or Coldneſs, cauſe this great Buſineſs to fall to the ground; he muſt give me leave to tell him, He runs the deſperate hazard of eternally ſinking under the weight of all the Curſes, that ſhall in bitterneſs of Spirit fall from all the trembling Aged, Anxie<g ref="char:EOLhyphen"/>ted, Infirm perſons, and friendleſs Orphans, that ſhall ever languiſh upon the face of this fruitful Land, from this day to the day of Judgment.</p>
+            <p>In regard the effecting of this great Work, may (to ſome dull Spirits) ſeem difficult, the enſuing Suggeſtions are humbly offered to conſideration.</p>
+            <p n="1">I. That Commiſſioners of active Spirits, and unby<g ref="char:EOLhyphen"/>aſſed Principles, be appointed to the mannagement and carrying on of this buſineſs.</p>
+            <p n="2">II. That the Muſter-Maſters in the reſpective Pro<g ref="char:EOLhyphen"/>vinces of this Dominion, be ordered to offer it to the Subſcription of every Officer relating to that part of the Army, the next Muſter-day af<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er he re<g ref="char:EOLhyphen"/>ceives it from hence.</p>
+            <p n="3">
+               <pb n="8" facs="tcp:59252:6"/>
+               <!-- PDF PAGE 77 -->
+III. That whereas ſome are in parcel poſſeſſion of their Eſtates, and out of employment: the High Sherif of every reſpective Countie, be ordered by himſelf or his Subſtitutes to tender it to the voluntary Sub<g ref="char:EOLhyphen"/>ſcription of every ſuch perſon, as alſo to all perſon<g ref="char:EOLhyphen"/>ally poſſeſt Adventurers and purchaſers of Deben<g ref="char:EOLhyphen"/>tures; for the deduction of the proportion out of the part remaining due unto him.</p>
+            <p n="4">IV. That whereas many are in poſſeſſion of their full proportion of Lands, and conſequently no conveni<g ref="char:EOLhyphen"/>ent way left for contributing their proportions in kind; there are numerous precedents of perſons ſo compleated, that offer their return in money, rate<g ref="char:EOLhyphen"/>ably as they received each Acre.</p>
+            <p n="5">V. That whereas it may be objected, that many ſo in poſſeſſion of their full proportions, are not provi<g ref="char:EOLhyphen"/>ded with ready money: the High Sherif of every County be ordered, by himſelf or his Subſtitutes, to tender it to the voluntary Subſcription of every ſuch perſon, for the ſum and time wherein they cheerfully conſent to pay it.</p>
+            <p n="6">VI. That what money ſhall ſo be received, be paid into a Treaſurie appointed for that purpoſe in <hi>Dublin,</hi> and laid out in purchaſe of land for the uſes afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p n="7">
+               <pb n="9" facs="tcp:59252:6"/>
+               <!-- PDF PAGE 77 -->
+VII. That the Sherifs of every reſpective County, be ordered yearly to give in their account to their Suc<g ref="char:EOLhyphen"/>ceſſors before a full Bench of Juſtices.</p>
+            <p n="8">VIII. That the Sherifs and Muſter-Maſters aforeſaid, be ordered to return hether the names of all the Diſſen<g ref="char:EOLhyphen"/>ters, to the end that being here recorded there may be no miſtake in the deductions.</p>
+            <p n="9">IX. That the Sherifs do within twenty days, return all the Subſcriptions to the Commiſſioners before-mentioned.</p>
+            <p n="10">X. That his Highneſs Council for the affairs of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> be moved for their countenance to, and aſſiſtance in the promotion of it.</p>
+            <p n="11">XI. That his Highneſs the Lord Protector be moved to recommend it to the Adventurers in <hi>England,</hi> who are (ordinarily) cheerful contributers to works of this nature.</p>
+            <p n="12">XII. That the Chancellor of this Univerſity be moved to a ſpeedy rectification, and reſcue of it from dis<g ref="char:EOLhyphen"/>order.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
